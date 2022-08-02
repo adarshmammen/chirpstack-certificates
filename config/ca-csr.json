@@ -1,5 +1,9 @@
 {
   "CN": "ChirpStack CA",
+  "CA":  {
+    "expiry": "8760h",
+    "pathlen": 0
+  },
   "key": {
     "algo": "rsa",
     "size": 2048
